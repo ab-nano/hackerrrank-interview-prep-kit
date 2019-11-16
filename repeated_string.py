@@ -8,15 +8,12 @@ import math
 
 def repeatedString(s, n):
     string_length = len(s)
-    if s == 'a'*string_length:
-        return n
-
-    a_count = 0
-    for i in range(n):
-        string_index = i % string_length
-        if s[string_index] == 'a':
-            a_count -= -1
-    return a_count
+    a_count = s.count('a')
+    repititions = math.floor(n/string_length)
+    total_count = a_count*repititions
+    final_repetition_string = s[:n % string_length]
+    total_count += final_repetition_string.count('a')
+    return total_count
 
 
 # Simple test case
