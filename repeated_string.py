@@ -5,6 +5,8 @@
 from __future__ import division
 import math
 
+# Using a counting techniques instead of explicit loop and conditional statements to improve execution time
+
 
 def repeatedString(s, n):
     string_length = len(s)
