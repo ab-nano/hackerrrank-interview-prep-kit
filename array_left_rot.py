@@ -9,7 +9,7 @@ import math
 def rotLeft(n, a, d):
     needed_rotations = d % n
     rotated_elements = []
-    for i in range(needed_rotations):
+    for _ in range(needed_rotations):
         rotated_elements.append(a.pop(0))
     return a + rotated_elements
 
