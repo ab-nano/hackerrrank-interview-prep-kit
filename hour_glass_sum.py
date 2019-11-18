@@ -19,6 +19,7 @@ def hourglassSum(arr):
     return max_sum
 
 
+# Test case
 arr = [[0, -4, -6, 0, -7, -6],
        [-1, -2, -6, -8, -3, -1],
        [-8, -4, -2, -8, -8, -6],
