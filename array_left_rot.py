@@ -1,7 +1,6 @@
+
 # Array Challenges
 # Arrays Left Rotation
-
-import math
 
 # Excluding all the full cyclic number of rotations that gives the same original array and executing the remaining rotations
 
