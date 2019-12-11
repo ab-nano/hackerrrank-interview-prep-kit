@@ -2,9 +2,7 @@
 
 # Submitted solutions to [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
-This wiki is intended to document the personal work and submitted solutions to a number of hackerrank problems.
-
-The following is the list of problems that received a full score to the solutions above(grouped by difficulty):
+This work-in-progress repo is intended to document the personal work and submitted solutions to a number of hackerrank problems. The following is the list of problems that received a full score to the solutions above(grouped by difficulty):
 
 ## Hard
 
