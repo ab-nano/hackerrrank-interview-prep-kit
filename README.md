@@ -1,6 +1,6 @@
 # hackerrrank-interview-prep-kit
 
-# Submitted solutions to the problems grouped in [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+# Submitted solutions to [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 
 This wiki is intended to document the personal work and submitted solutions to a number of hackerrank problems.
 
