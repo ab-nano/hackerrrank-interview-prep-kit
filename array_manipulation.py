@@ -33,7 +33,8 @@ def arrayManipulation2(n, queries):
             arr[i-1] += operation[2]
             if arr[i-1] > maxi:
                 maxi = arr[i-1]
-    print(maxi)
+    return maxi
 
 
-arrayManipulation(5, [[1, 2, 100], [2, 5, 100], [3, 4, 100]])
+# Test Case
+print(arrayManipulation(5, [[1, 2, 100], [2, 5, 100], [3, 4, 100]]))
